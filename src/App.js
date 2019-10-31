@@ -7,7 +7,7 @@ import RelatedVideosList from "./components/youtube/RelatedVideosList";
 //import youtubeapi from "./components/youtube/YoutubeApi";
 import YoutubeContext from "./context/youtube/youtubeContext";
 
-//const KEY = "AIzaSyBcRug-I2unlgiLfJIAIz-tIAhii_FwYZA";
+//const KEY = "ANY_YOUTUBE_API_KEY";
 
 const App = () => {
   const youtubeContext = useContext(YoutubeContext);
