@@ -4,7 +4,7 @@ import YoutubeReducer from "./youtubeReducer";
 import youtubeapi from "../../components/youtube/YoutubeApi";
 
 import { HANDLE_FORM, ON_SELECT } from "../types";
-const KEY = "AIzaSyBcRug-I2unlgiLfJIAIz-tIAhii_FwYZA";
+const KEY = "ANY_YOUTUBE_API_KEY";
 
 const YoutubeState = props => {
   const initialState = {
